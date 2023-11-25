@@ -1,4 +1,4 @@
-package com.bandsum.room
+package com.bandsum.room.domain
 
 interface RoomRepository {
 
